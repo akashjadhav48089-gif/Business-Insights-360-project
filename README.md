@@ -173,34 +173,3 @@ The Executive page combines high-level KPIs, sub-zone performance, division/chan
 4. **Investigate supply risk:** connect forecast errors with stockouts, excess stock, lead times, and demand spikes.
 5. **Recommend actions:** for every insight, state the evidence, likely cause, proposed action, owner, and KPI to monitor.
 6. **Measure the result:** track the KPI after the action and compare it with a baseline.
-
-## Important interpretation notes
-
-- These answers are based only on what is visible in the supplied dashboard screenshots. They are **initial observations**, not proof of root cause.
-- Some figures appear to be estimates for 2022. Confirm the reporting period and whether the dashboard is showing actuals, estimates, or a mixture.
-- Confirm definitions for benchmark, net error, forecast accuracy, gross margin, net profit, and the division labels in the underlying model.
-- The values are labelled in millions of dollars in the dashboard footer. Some visuals abbreviate values differently (for example, `$3.74bn`); verify unit formatting before publishing.
-- Use the report's filters consistently when comparing numbers. Different filter selections can change the result.
-
-## How to use this repository on GitHub
-
-1. Create a new GitHub repository, for example `business-insights-360-power-bi`.
-2. Upload `README.md` and the `screenshots/` folder.
-3. Check that all screenshots render in the README preview.
-4. If you have permission to share the original `.pbix` file and source data, add them in a separate folder or link to a secure source. Do not upload confidential business data.
-5. Add a short project summary to your resume, for example:
-
-> Built a Power BI Business Insights 360 dashboard to analyse finance, sales, market share, and supply-chain performance. Evaluated sales against benchmarks, compared product and customer profitability, identified forecast-accuracy gaps, and translated dashboard metrics into actionable business recommendations.
-
-## Skills demonstrated
-
-- Business performance analysis
-- KPI interpretation and variance analysis
-- Profit & Loss analysis
-- Customer, product, region, and channel analysis
-- Forecast accuracy and inventory-risk analysis
-- Data storytelling and stakeholder communication
-- Power BI dashboard interpretation
-
----
-**Note:** This repository documents dashboard analysis and recommendations. It does not include the underlying dataset or the editable Power BI report.
